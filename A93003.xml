@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall reasons wherefore the inhabitants of the county palatine of Chester and Lancaster; as also, all forreigners are now prejudiced and tyrannized over, by reason of the pretended priviledges and liberties of the said county. So that the condition of the said county is farre more miserable, and in greater thraldome, then any other county whatsoever in the kingdome.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93003</idno><idno type="EEBO-CITATION">45578444</idno>
+  <idno type="VID">172360</idno>
+  <idno type="EEBO-PROQUEST">2240897661</idno>
+  
+            <idno type="STC">Wing S2808A</idno>
+            <idno type="STC">ESTC R183771</idno>
+            <idno type="OCLC">45578444</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93003)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172360)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2627:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall reasons wherefore the inhabitants of the county palatine of Chester and Lancaster; as also, all forreigners are now prejudiced and tyrannized over, by reason of the pretended priviledges and liberties of the said county. So that the condition of the said county is farre more miserable, and in greater thraldome, then any other county whatsoever in the kingdome.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.E. according to order,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno Dom. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Lancashire (England) --  History.</term>
+               <term type="geographic_name">Cheshire (England) --  History.</term>
+               <term type="geographic_name">Lancashire (England) --  Politics and government.</term>
+               <term type="geographic_name">Cheshire (England) --  Politics and government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172360:1"/>
+            <p>
+               <hi>SEVERALL</hi> REASONS Wherefore the INHABITANTS OF THE COUNTY PALATINE OF CHESTER and LANCASTER; <hi>AS ALSO,</hi> All Forreigners are now prejudiced and tyrannized over, by reason of the pretended Priviledges and Liberties of the said COUNTY.</p>
+            <p>So that the condition of the said County is farre more miserable, and in greater thraldome, then any other County whatsoever in the KINGDOME.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. E.</hi> according to Order, <hi>Anno Dom.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172360:2"/>
+            <pb n="1" facs="tcp:172360:2"/>
+            <head>REASONS wherefore the Inhabitants of the County Palatine of <hi>Chester,</hi> and <hi>Lancashire;</hi> as also all Forreigners, are now prejudiced and tyrannized over, by reason of the pretended priviledges and liberties of the said <hi>County.</hi>
+            </head>
+            <p>IN silence to pretermit how the Earl of <hi>Chester</hi> was first created, and how the Prince of <hi>Wales</hi> became Earle of <hi>Chester,</hi> though it might conduce to the satisfaction of some; I shall only touch the late proceedings usually had in the said County, as it was regulated by the late Earl of <hi>Derby,</hi> and <hi>James</hi> then Lord <hi>Strange▪</hi> since Earl, being Chamberlain for the County Palatine of <hi>Chester,</hi> and the su<g ref="char:EOLhyphen"/>pream Judge of the Court of <hi>Exchequer</hi> there, who exercised an unlimitted, independent, tyrannicall, and arbitrary power of Judicature, which was a great means, to inable, to cause so great a Power against this present <hi>Parliament.</hi>
+            </p>
+            <p>The Court of Exchequer at <hi>Chester</hi> was only, till of late years, a Court of Revenue for the Earles Revenue, and in the nature of a Cursitors office, for the making only of the originall Writs of that County returnable before the chief Justice of <hi>Chester.</hi> All matters equitable being transacted before the Councell at <hi>Ludlow.</hi>
+            </p>
+            <pb n="2" facs="tcp:172360:3"/>
+            <p>
+               <hi>Eliz.</hi> Whereas in the Earl of <hi>Liecesters</hi> time it was concei<g ref="char:EOLhyphen"/>ved to be not only an honour to the Chamberlain of the said Count<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but then was it also propounded to the Inhabitants, to have ease at their own doors. But Time the best tryer of truths and falsities hath made the contrary to appear, through the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>surpation of Officers and Ministers.</p>
+            <p>Who have been the Officers and Ministers, have been too well known to some; as also, what obstructions of Justice in severall kinds and respects, and by whom occasioned, although the granting and denying, <hi>ad libitum,</hi> to passe such usuall and ordinary Writs, <hi>Sub Sigil. Com. Pal.</hi> which <hi>ex officio</hi> ought, and <hi>de jure</hi> ought not, nor ever were refused to passe under the great Seal of <hi>England,</hi> is partly an evident Character of more inju<g ref="char:EOLhyphen"/>stice there then else-where.</p>
+            <p>That it was very hard to obtain Justice there, if a man were either Forreigner or Inhabitant, and had any cause against any that were <hi>amici Curiae,</hi> or had the least dependency upon any such; neither was there any remedy for any such, in regard there was no Appeal to any of the Courts at <hi>Westminster,</hi> but to the <hi>High Court of Parliament;</hi> so that the suffering Party was remedilesse, which was well known to the prosecuting Party, which animated them in their exorbitant courses, espe<g ref="char:EOLhyphen"/>cially living <hi>proculá Jove,</hi> they apprehended themselves <hi>pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t à<g ref="char:EOLunhyphen"/>fulmine.</hi>
+            </p>
+            <p>Multitudes of Suits were occasioned, by reason of the neer<g ref="char:EOLhyphen"/>nesse of the Court of Exchequer, twice as many as any other County not Palatinate, the charge greater then in any of the Courts at <hi>Westminster,</hi> by reason of the parties themselves at<g ref="char:EOLhyphen"/>tending, and the dayly motion of the Court fitting, and every day occasioning variety of crosse and disordered Orders, the Attornies and Officers ever residing in the City, and there be<g ref="char:EOLhyphen"/>ing no common Sollicitors, the first Processe being twice as dear as in his Highnesse Court of Chancery, every proceeding by motions and orders, without genera<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l rule, besides▪ the going and sending for the same to <hi>Chester,</hi> occasioned twice as great expences as the Processe.</p>
+            <p>That all Obligations, Specia<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ties &amp; other matters tryable at the common
+<pb n="3" facs="tcp:172360:3"/> Law are determinable in the said Court, so that the Sub<g ref="char:EOLhyphen"/>jects and Inhabitants have little usage of the Law; neither is the same scarcely known unto them, by reason that every Acti<g ref="char:EOLhyphen"/>on of any value which is first brought at the common Law; for the amendi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g whereof, every one desireth to begin there first.</p>
+            <p>That the proceedings at the common Law there are <hi>obsolet<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> almost, by reason that there are but Assizes twice in the yeare, and every Processe returnable from one Assize to another, in case they be Writs <hi>ad respondendum,</hi> a Forreiner though never so good a Sollicitor in the Courts at <hi>Westminster,</hi> must begin to learn his <hi>A▪ b▪ c.</hi> when he hath any occasion there.</p>
+            <p>That for not appearing upon a <hi>Sub-pana</hi> in the said Court of Exchequer, they proceed to Sequestration of the Estates both of the Inhabitants there, and of such as live in <hi>London,</hi> or in any other County, if they have Estates there; albeit their oc<g ref="char:EOLhyphen"/>casions will not admit their speedy appearance, and that within one Moneth.</p>
+            <p>That if any one, for any transitory cause, and doubting of Ju<g ref="char:EOLhyphen"/>stice, there being not <hi>amicus Cur.</hi> (some of the Officers not res<g ref="char:EOLhyphen"/>senting him) should sue any Inhabitant in any of his Maj. Cour<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s at <hi>Westminster,</hi> presently a Writ <hi>pro fractione Libertat▪ Com. Pal. Cestr▪</hi> never read of in <hi>Fitz-Herberts Natura brevium,</hi> or else<g ref="char:EOLhyphen"/>where, issueth forth; whereupon the party is attached without either Bayle or Mainprize to the Court, and there forthwith enters into Recognizance with sufficient Sureties not to proceed else-where to stand to the Order of the Court, and not to de<g ref="char:EOLhyphen"/>part without Licence, and then he must be examined upon <hi>In<g ref="char:EOLhyphen"/>terogatories</hi> touching the breach of the said pretended liberties, and shall hardly get advice of any Councell, Attorney, or Offi<g ref="char:EOLhyphen"/>cer belonging to the said Court, in regard he is conceived to be <hi>inimicus Cur.</hi> Better by farre was it in the Star-Chamber.</p>
+            <p>Another kind of an Attachment not used in any Court of Chan<g ref="char:EOLhyphen"/>ry, being of the price of 9. s. which was usually granted upon the oath of any one who did believe that the Defendant would not stand to the Order of the Court; and upon this, Forreigners as well as Inhabitants, who had commenced no suit in any of
+<pb n="4" facs="tcp:172360:4"/> the Courts at <hi>Westminster,</hi> where none but sufficient Inhabi<g ref="char:EOLhyphen"/>tants would serve, so that for the most part, Strangers were cō<g ref="char:EOLhyphen"/>pelled to make their compositions on any conditions almost.</p>
+            <p>That if any <hi>Londoner</hi> or other <hi>Forreigner</hi> should happen to sue any of the Inhabitants within the said County, in any of the Courts at <hi>Westminster,</hi> and should afterwards come into the County about the execution of any Processe, Order, or other oc<g ref="char:EOLhyphen"/>casion, then presently an Attachment <hi>pro fractione liberta<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> must be executed upon him, and he either enforced to lose his Debt, make some unjust composition, or be sent to the Castle, unlesse he had better credit and friends then usually strangers found there.</p>
+            <p>In like manner have been attached Councellors, Attornies, &amp; Sollicitors, for being Agents for their Clyents in the Courts at <hi>Westminster,</hi> coming accidentally into the Country, the Coun<g ref="char:EOLhyphen"/>ty Palatine of <hi>Lancaster,</hi> although having the same priviledges, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever claimed the like.</p>
+            <p>Every common Processe issuing out of the Courts at <hi>West<g ref="char:EOLhyphen"/>minster,</hi> which passeth the County-Palatine Seale, costeth 5. s. &amp; to the Attorney there 1. s. 8. d. every judicial or speciall Writ 9. s. besides the Attornies Fee; otherwise, the party may wait: the Sheriffe for his Warrant will have 6. s. 8. d. to the Bayliffe of the Hundred 13. s. 4. d. to speciall Bayliffs besides his Poun<g ref="char:EOLhyphen"/>dage, if an Execution; besides the great trouble and charge in attending upon the Chamberlains-Officer, and Sheriffe.</p>
+            <p>Not one Writ of a hundred executed, after all labour and cost, for that no person of quality living there, and indebted, but was in fee with some Attornie or Officer there, who gave him notice of the same, whereby both Sheriffe, Bayliffe, and Party were prevented.</p>
+            <p>That by reason thereof, there are few Estates in <hi>Cheshire,</hi> which are not incumbred with Statutes, Judgments, and Re<g ref="char:EOLhyphen"/>cognizances, very few being discharged, that security from the person, or Lands of the best Gentlemen in <hi>Cheshire,</hi> is accoun<g ref="char:EOLhyphen"/>ted bad security here in <hi>London,</hi> amongst either <hi>Citizen, Scrive<g ref="char:EOLhyphen"/>ner,</hi> or <hi>Broker.</hi>
+            </p>
+            <p>That the Inhabitants of the County have not only been de<g ref="char:EOLhyphen"/>prived
+<pb n="5" facs="tcp:172360:4"/> of the benefit of the common Law, but also are exemp<g ref="char:EOLhyphen"/>ted <hi>from the priviledge of divers Statute-Lawes,</hi> A little Vo<g ref="char:EOLhyphen"/>lume will not contain the abuses and intollerable sufferings, occasioned by the said County-Palatine.</p>
+            <p>Let the same come to solemn debate, and there will be found nothing but generall inconveniences, only some private accom<g ref="char:EOLhyphen"/>modation, giving principall Officers liberty to pleasure their friends, and tyrannize over the rest.</p>
+            <p>If Counties-Palatine were conceived to be priviledge for the Inhabitants, It is to be wondred why in these times of liberty other Counties do not petition for the same, other Counties e<g ref="char:EOLhyphen"/>qually deserving them, and most desiring immunities.</p>
+            <p>If the Sheriffe of the County do neglect to do his office, or return his Writs, there is no remedy for the punishing of him, because he is the Minister to the Chamberlain, and to make his returns to him, and not to any of the Courts of <hi>Kings-Bench,</hi> or <hi>Common-Pleas.</hi> And what remedy there was against, the Earl of <hi>Derby</hi> who was <hi>Chamberlain,</hi> I leave it to those who have had experience therein.</p>
+            <p>What benefit can redound to a Kingdome governed by one Law, regulated by o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Parliament to have Counties Palatine, and to have <hi>Jura regalia,</hi> rather <hi>illegalia &amp; sclo diademate dispa<g ref="char:EOLhyphen"/>ria,</hi> and to be bound up in a little corner, that upon any occasi<g ref="char:EOLhyphen"/>on that any one hath with any of the Inhabitants of the Co▪ he must go seek into the County Palatine, where he shall be more strange to their Lawes, which they call Liberties of the County, then he is to their persons, and hath no remedy to help himself, if injured.</p>
+            <p>
+               <hi>Germany</hi> hath tasted sufficiently of the miseries which Duke<g ref="char:EOLhyphen"/>doms Principalities have occasioned. <hi>Ireland</hi> hath felt some smart by their County Palatines. &amp; <hi>England</hi> had a fair escape from the power of the late Earl of <hi>Derby,</hi> who gathered his Forces out of the Counties Palatine of <hi>Lancaster</hi> and <hi>Chester▪ Scotland</hi> is very sensible of the grand inconveniences, occasioned by their hereditary Sheriffes, which hath caused many Princi<g ref="char:EOLhyphen"/>palities, ever destructive to States and Common-wealths. Before any further Ordinance be made for the confirmation of any.
+<pb n="6" facs="tcp:172360:5"/> County Palatine, it were not impertinent, that the Judges might examine the severall abuses, and certifie the Parliament, that so no County might bee inthralled for any particular respects whatsoever.</p>
+            <p>The grandest liberty of the Subject in their election of their Knight of the County, and Burgesses for the City of <hi>Chester,</hi> hath received such opposition, as the like in no County, where<g ref="char:EOLhyphen"/>as the pretence only hath been for want of a Chamberlain; So that in the absence of that ever honoured Sir <hi>William Brereton,</hi> there hath not been any since the beginning of these differences▪ to represent the state and condition of that county. The Judges ride their Circuits far further, even to <hi>Lancaster,</hi> And yet by what fate is not known to every one that is exempted.</p>
+            <p>The state of the County Palatine of <hi>Lancaster</hi> hath been some little better.</p>
+            <p>Every one inthralled or tyrannized upon at this instant, ex<g ref="char:EOLhyphen"/>pecteth liberty and freedome▪ And so do the Inhabitants of the County Palatines of <hi>Lanca<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter</hi> and <hi>Chester,</hi> who have been in seruitude &amp; slavery ever since they were made Palatinates. The Subjects also of the three Kingdomes expect to have Justice there, as else-where, from which they have <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> barred.</p>
+            <p>None but Officers desire the continuance thereof, they may be discerned by their daily sollicitations, and daily attendance upon the Houses of Patliament.</p>
+            <closer>Faxit Deus ut curet haec Parliamentum.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
